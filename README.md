@@ -1,6 +1,6 @@
 # Appearance or Disappearance: Glass Surface Detection with Flash and No-flash Image Pairs
 
-**Tao Yan, Hao Huang, Yiwei Lu, Hao Chen, Yinghui Wang and Xiaojun Chang, "Appearance or Disappearance: Glass Surface Detection with Flash and No-flash Image Pairs". **
+**Tao Yan, Hao Huang, Yiwei Lu, Hao Chen, Yinghui Wang and Xiaojun Chang, "Appearance or Disappearance: Glass Surface Detection with Flash and No-flash Image Pairs".**
 
 ## Result Comparisons
 
